@@ -1,4 +1,4 @@
-logging="INFO"
+logging="ERROR"
 data-path="data"
 host-whitelist=["*"]
 
